@@ -125,3 +125,9 @@ h1 {
   color: #0cd977;
   cursor: default;
 }
+#posts.poster > * {
+  margin-bottom: 30px ;
+  padding: 20px;
+}
+#posts.poster {
+background-color: #023047; }
